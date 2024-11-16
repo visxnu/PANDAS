@@ -1,5 +1,5 @@
 
-# *Pandas Repository*
+# **Pandas Repository**
 
 ![Pandas Logo](https://pandas.pydata.org/static/img/pandas_white.svg)
 
