@@ -1,8 +1,5 @@
-Here’s a professional and comprehensive **README.md** template for a repository dedicated to **Pandas** projects or tutorials. You can customize it as needed. 
 
----
-
-# **Pandas Repository**
+# *Pandas Repository*
 
 ![Pandas Logo](https://pandas.pydata.org/static/img/pandas_white.svg)
 
